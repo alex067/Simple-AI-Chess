@@ -3,9 +3,11 @@ A simple AI implementation of chess using Python.
 
 The black player has three pieces:
 King
-Queen
-Pawn
+Rook
+Knight
 
 the white player has two pieces:
 King
-Pawn
+Knight
+
+Uses the min-max theory to develop possible move setups
